@@ -1,9 +1,7 @@
 #Renea De Castro Final Assignment for CIS 303
 #REPL LINK: 
 # https://repl.it/@reneadc/ReneaDeCastroFinalCIS303Project
-#Making some code changes
-#here
-#and here
+
 import time;
 import subprocess; 
 #To clear screen on Windows/Linux/MacOSx Systems
