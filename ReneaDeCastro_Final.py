@@ -2,9 +2,6 @@
 #REPL LINK: 
 # https://repl.it/@reneadc/ReneaDeCastroFinalCIS303Project
 
-#Here is my changes 
-#here
-#changes 
 
 import time;
 import subprocess; 
